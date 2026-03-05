@@ -1,4 +1,4 @@
-# Basic_JAVA_Programs
+# Top-100-Codes PREP-INSTA
 
 ✯ This repository contains my Java programs, focusing on basic and foundational concepts of the Java programming language.
 

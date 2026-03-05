@@ -6,7 +6,7 @@ Author        : Shaik Sameer Basha
 Date Created  : 14-Oct-2025
 Last Modified : 19-Oct-2025
 IDE Used      : VS Code
-Path          : Basic_JAVA_Programs/Method_1/Program04.java
+Path          : Top-100-Codes---PREP-INSTA/Method_1/Program04.java
 ---------------------------------------------------------------------------
 
  ★ PS     : Find the Numbers that lay in the given interval.

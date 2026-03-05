@@ -1,4 +1,19 @@
-/* Given Three integer inputs num1, num2 and num3, the objective is to write a code to "Find the Largest of the Three Numbers" in Java Language. */
+/* 
+------------------------------------------------------------------------------------
+Program No.   : 06
+Program Title : Find the Largest of the Three Numbers
+Author        : Shaik Sameer Basha
+Date Created  : 14-Oct-2025
+Last Modified : 19-Oct-2025
+IDE Used      : VS Code
+Path          : Top-100-Codes---PREP-INSTA/Method_3/Program06.java
+-------------------------------------------------------------------------------------
+
+ ★ PS     : Find the Largest of the Three Numbers.
+ ✩ Input  : Three Numbers.
+ ✩ Output : A message that prints the "Greatest number among three given numbers".
+--------------------------------------------------------------------------------------
+*/
 
 // Method-3 : using ternary operator
 
@@ -47,4 +62,12 @@ Enter three numbers :
 0917 0917 0917
 All numbers are equal. The greatest number is 917.0
 
- */
+*/
+
+/*
+
+My Observation :
+----------------
+The program was successfully executed.
+
+*/

@@ -1,6 +1,18 @@
-/* PS :
-Find the Reverse of a Number in Java
-Given a integer input the objective is to break down the  number into digits and rearrange them in reverse order.
+/* 
+------------------------------------------------------------------------------------
+Program No.   : 11
+Program Title : Find the Reverse of a Number
+Author        : Shaik Sameer Basha
+Date Created  : 18-Oct-2025
+Last Modified : 19-Oct-2025
+IDE Used      : VS Code
+Path          : Top-100-Codes---PREP-INSTA/Method_2/Program11.java
+-------------------------------------------------------------------------------------
+
+ ★ PS     : Find the Reverse of a Number in Java.
+ ✩ Input  : A number.
+ ✩ Output : A message that displays reverse of given number.
+--------------------------------------------------------------------------------------
 */
 
 // This method is not that much efficient one, but i have done this because i felt so enthusastic to work with Strings.
@@ -56,4 +68,17 @@ Enter a number :
 -170601
 The reverse of 170601 is : -106071
 
- */
+Case - 3 :
+----------
+Enter a number : 
+000009
+The reverse of 9 is : 9
+
+*/
+
+/*
+My Observation :
+-----------------
+works well, but doesn't satisfy case - 3 correctly. So, i try to slove this in Method_3/Program11.java
+
+*/

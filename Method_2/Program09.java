@@ -1,10 +1,21 @@
-/* PS :
-Find all the Prime Numbers in a Given Interval in Java
+/* 
+------------------------------------------------------------------------------------
+Program No.   : 09
+Program Title : Find all the Prime Numbers in a Given Interval
+Author        : Shaik Sameer Basha
+Date Created  : 16-Oct-2025
+Last Modified : 19-Oct-2025
+IDE Used      : VS Code
+Path          : Top-100-Codes---PREP-INSTA/Method_2/Program09.java
+-------------------------------------------------------------------------------------
 
-Given two integer inputs for the range or the interval for the search. The objective is to search and find all the Prime Numbers that lay in the given interval or range. 
-To do so we'll iterate through the numbers and check whether or not they are prime simultaneously.
+ ★ PS     : Find all the Prime Numbers in a Given Interval in Java.
+ ✩ Input  : Two numbers - initial and end numbers in the range.
+ ✩ Output : A message that displays all prime numbers in given range.
+--------------------------------------------------------------------------------------
+*/
 
- */
+
 
 import java.util.Scanner;
 
@@ -75,4 +86,12 @@ Enter the last number in the range :
 0
 The prime numbers between -24 and 0 are : There are no prime numbers between -24 and 0 !
 
- */
+*/
+
+/*
+
+My Observation :
+----------------
+The program was executed successfully.\
+
+*/

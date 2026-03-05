@@ -1,10 +1,20 @@
-/* PS :
-Find all the Prime Numbers in a Given Interval in Java
+/* 
+------------------------------------------------------------------------------------
+Program No.   : 09
+Program Title : Find all the Prime Numbers in a Given Interval
+Author        : Shaik Sameer Basha
+Date Created  : 16-Oct-2025
+Last Modified : 19-Oct-2025
+IDE Used      : VS Code
+Path          : Top-100-Codes---PREP-INSTA/Method_1/Program09.java
+-------------------------------------------------------------------------------------
 
-Given two integer inputs for the range or the interval for the search. The objective is to search and find all the Prime Numbers that lay in the given interval or range. 
-To do so we'll iterate through the numbers and check whether or not they are prime simultaneously.
+ ★ PS     : Find all the Prime Numbers in a Given Interval in Java.
+ ✩ Input  : Two numbers - initial and end numbers in the range.
+ ✩ Output : A message that displays all prime numbers in given range.
+--------------------------------------------------------------------------------------
+*/
 
- */
 
 import java.util.Scanner;
 
@@ -15,7 +25,7 @@ public class Program09
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the initial number : ");
         int start = sc.nextInt();
-        System.out.println("Enter the final number :");
+        System.out.println("Enter the End number :");
         int end = sc.nextInt();
 
         Program09 obj = new Program09();
@@ -26,6 +36,11 @@ public class Program09
 
     void printPrime (int start, int end)
     {
+        if(start > end)
+        {
+            System.out.println("The initial number should greater than or equal to end number.");
+            return;
+        }
         System.out.printf("The prime numbers between %d and %d are : ",start,end);
 
         for(int i = start ; i <= end ; i++)
@@ -51,13 +66,37 @@ public class Program09
 }
 
 /* Output :
- 
+=========== 
 Case - 1 :
 ------------
 Enter the initial number : 
 2
-Enter the final number :
+Enter the End number :
 7
-2 3 5 7 
+The prime numbers between 2 and 7 are : 2 3 5 7 
 
- */
+Case - 2 :
+-----------
+Enter the initial number : 
+9
+Enter the End number :
+7
+The initial number should greater than or equal to end number.
+
+Case - 3 :
+-----------
+Enter the initial number : 
+17
+Enter the End number :
+17
+The prime numbers between 17 and 17 are : 17 
+
+*/
+
+/*
+
+My Observation :
+----------------
+The program is successfully executed.
+
+*/

@@ -1,5 +1,19 @@
-/* PS : Find the Sum of the Digits of a Number in Java.
-Given an integer input number, the objective is t0 Find the Sum of the Digits of a Number in Java Language. */
+/* 
+------------------------------------------------------------------------------------
+Program No.   : 10
+Program Title : Find the Sum of the Digits of a Number
+Author        : Shaik Sameer Basha
+Date Created  : 17-Oct-2025
+Last Modified : 19-Oct-2025
+IDE Used      : VS Code
+Path          : Top-100-Codes---PREP-INSTA/Method_1/Program10.java
+-------------------------------------------------------------------------------------
+
+ ★ PS     : Find the Sum of the Digits of a Number in Java.
+ ✩ Input  : A number.
+ ✩ Output : A message that displays sum of digits of given number.
+--------------------------------------------------------------------------------------
+*/
 
 import java.util.Scanner;
 
@@ -32,9 +46,9 @@ public class Program10
 }
 
 /* Output :
- ============
- Case - 1 :
- ----------
+============
+Case - 1 :
+----------
 Enter a number : 
 143
 The sum of digits in 143 is : 8
@@ -50,4 +64,12 @@ Case - 3 :
 Enter a number : 
 -79
 The sum of digits in -79 is : -16   => which is mathematically wrong, so i write this program in method 3 in more effectient way(to handle even number in negative), so you can check out there.
+*/
+
+/*
+
+My Observation : 
+----------------
+Works nice, but when a negative number is given as input, it prints the output in negative. So, i have written to calculate only magnitude in method_2/Program10.java
+
  */

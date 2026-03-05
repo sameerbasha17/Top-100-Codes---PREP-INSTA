@@ -1,6 +1,18 @@
-/* PS :
-Find the Reverse of a Number in Java
-Given a integer input the objective is to break down the  number into digits and rearrange them in reverse order.
+/* 
+------------------------------------------------------------------------------------
+Program No.   : 11
+Program Title : Find the Reverse of a Number
+Author        : Shaik Sameer Basha
+Date Created  : 18-Oct-2025
+Last Modified : 19-Oct-2025
+IDE Used      : VS Code
+Path          : Top-100-Codes---PREP-INSTA/Method_3/Program11.java
+-------------------------------------------------------------------------------------
+
+ ★ PS     : Find the Reverse of a Number in Java.
+ ✩ Input  : A number.
+ ✩ Output : A message that displays reverse of given number.
+--------------------------------------------------------------------------------------
 */
 
 // It's lengthy, but i am learning more deeper with "Strings".
@@ -65,19 +77,13 @@ Enter a number :
 -0705
 The reverse of -0705 is : -5070
 
- */
-
-
- /* Chatgpt's Final verdict of this code :
- =========================================
-
-🏁 Final Verdict
-
-⭐ Score: 100 / 100
-⭐ Difficulty Level: Intermediate – Excellent command of strings
-⭐ Quality: Clean, readable, and conceptually strong
-⭐ Verdict: ✅ Perfectly written with deep understanding.
-  
 */
 
-// I am using chatgpt to evaluate my code so that i can improve and cover all the concepts & reduce and optimize the code
+
+/* 
+ 
+My Observation :
+----------------
+Works good... Look at the logic ! what type of code it is 😅 .
+
+*/

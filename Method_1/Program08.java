@@ -1,7 +1,18 @@
-/* PS :
-Check Whether a Given Number is Prime or Not in Java
-Given an integer input greater than 0, the objective is to check whether or not the number is a prime. 
-To do so, we'll write a code to check whether a given number is prime or not in Java that checks for the factors of the number besides 1 and the number itself.
+/* 
+------------------------------------------------------------------------------------
+Program No.   : 08
+Program Title : Check Whether a Given Number is Prime or Not
+Author        : Shaik Sameer Basha
+Date Created  : 14-Oct-2025
+Last Modified : 19-Oct-2025
+IDE Used      : VS Code
+Path          : Top-100-Codes---PREP-INSTA/Method_1/Program08.java
+-------------------------------------------------------------------------------------
+
+ ★ PS     : Check Whether a Given Number is Prime or Not in Java.
+ ✩ Input  : A number.
+ ✩ Output : A message that prints given number is prime or not.
+--------------------------------------------------------------------------------------
 */
 
 import java.util.Scanner;
@@ -66,5 +77,13 @@ Case- 03 :
 Enter a number :
 -917
 -917 is not a prime number.
+
+*/
+
+/*
+
+My Observation :
+----------------
+The program was successfully executed.
 
 */
